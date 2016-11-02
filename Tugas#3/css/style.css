@@ -1,0 +1,60 @@
+body
+{
+	background-image : url("oioi.jpg");
+	margin: auto;
+	font-family: arial;
+}
+
+.dos{
+	background-color: #99ccff;
+	width: 65%;
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+	height: 100%;
+}
+
+.judulutama{
+	background-color:  #005ce6;
+	text-align: center;
+	border:3px solid #fff;
+	margin: auto;
+	position: relative;
+}
+
+.daftar{
+	width: 300px;
+	border:2px solid #333;
+	margin-left: 20px;
+	float: left;
+	display:block;
+	position: relative;
+	text-align: center;
+	background-color: #66a3ff;
+	margin-top: 10px;
+}
+
+.lagu{
+	
+	background-color:  #4d94ff;
+	text-align: center;
+	overflow: scroll;
+	width: 500px;
+	height: 750px;
+	display:inline-block;
+	float:right;
+	position: relative;
+	margin-right: 20px;
+	margin-top: 10px;
+	
+}
+
+.lagu p {
+	text-align: center;
+	font-size: 18px;
+}
+
+.lagu img{
+	width: 300px;
+	margin: auto;
+}
